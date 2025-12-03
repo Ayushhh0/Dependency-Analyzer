@@ -1,5 +1,5 @@
 # Dependency-Analyzer 
-Dependency-Analyzer
+Dependency-Analyzer 
 A comprehensive Node.js tool for analyzing node_modules directories, computing package hashes, building dependency graphs, and detecting missing licenses.
 
 Features 🔍 Package Discovery: Automatically discovers all packages in node_modules 🌳 Dependency Graph: Builds a complete dependency graph with version information 🔐 SHA-256 Hashing: Computes SHA-256 hashes for all package files 📄 License Detection: Identifies packages without license files or license information 📊 Comprehensive Reporting: Generates detailed analysis reports 💾 JSON Export: Saves results to JSON files for further processing Installation No additional dependencies required! Uses only Node.js built-in modules:
